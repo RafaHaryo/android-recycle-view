@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Activity_Uas</string>
+    <string name="beli_sekarang">Beli Sekarang</string>
+    <string name="todo">TODO</string>
+    <string-array name="ListNama">
+        <item>Crocodile Skink</item>
+        <item>Bearded Dragon</item>
+        <item>Marine Iguana</item>
+        <item>Forest Dragon</item>
+        <item>Soa Layar</item>
+        <item>Soa Payung</item>
+    </string-array>
+    <string-array name="ListDeskripsi">
+        <item>Tribolonotus gracilis , yang umumnya dikenal sebagai kadal buaya bermata merah , adalah spesies kadal yang endemikdi Nugini , tempat ia hidup dihabitat hutan hujan tropis . Spesies ini pertama kali dideskripsikan oleh Nelly de Rooij pada tahun 1909. [ 2 ] Kadang-kadang , kadal ini dipelihara sebagai hewan peliharaan eksotis .</item>
+        <item>Pogona adalah genus reptilyang terdiri dari delapan spesies kadal , yang sering dikenal dengan nama umum bearded dragon atau secara informal (terutama di Australia ) beardies. Nama "bearded dragon" mengacu pada bagian bawah tenggorokan (atau "jenggot") kadal, yang dapat berubah menjadi hitam dan menggembung karena sejumlah alasan, paling sering sebagai akibat stres , jika mereka merasa terancam, [ 2 ] atau mencoba untuk memikat pasangan. Mereka adalah spesies semiarboreal, menghabiskan banyak waktu di cabang-cabang pohon, di semak-semak, dan di dekat tempat tinggal manusia.</item>
+        <item>.Iguana laut (Amblyrhynchus cristatus)adalah spesies iguana yang hanya ditemukan di Kepulauan Galapagos (Ekuador). Di antara kadal modern, iguana laut adalah reptil laut yang memiliki kemampuan menyelam untuk mencari makan, makanan utamanya adalah ganggang laut, yang berada di dasar batu.[2] Jantan berukuran besar dapat menyelam untuk mencari ganggang, sementara betina dan jantan yang lebih kecil mencari makan saat air surut di zona intertidal.</item>
+        <item>Forest Dragon memiliki nama latin Gonocephalus Chamaeleontinus merupakan spesies dari keluarga Agamidae.  Hewan ini memiliki bentuk kepala yang unik serta dapat merubah warna tubuh layaknya bunglon. Kadal ini menjadi salahsatu jenis kadal yang memiliki bentuk tubuh yang unik. Sebab ia memiliki tekstur tengkorak pada bagian mata, sehingga membuat penampilannya seperti hewan zaman pra sejarah.</item>
+        <item>Kadal soa layar, atau dikenal sebagai kadal berjumbai (nama ilmiah: Hydrosaurus spp.), adalah jenis kadal besar yang termasuk dalam keluarga Agamidae. Kadal ini sering disebut juga sebagai kadal naga air, karena memiliki jambul menyerupai layar di bagian ekor atau punggungnya, yang membuatnya terlihat seperti naga kecil.</item>
+        <item>Kadal Soa Payung, atau dikenal sebagai kadal berjumbai (nama ilmiah: Chlamydosaurus kingii), adalah jenis kadal yang terkenal karena memiliki lipatan kulit lebar di sekitar lehernya, menyerupai "payung" atau jumbai. Lipatan ini dapat dibuka seperti kipas ketika kadal merasa terancam, digunakan untuk menakut-nakuti predator atau pesaing.</item>
+    </string-array>
+    <string-array name="ListImg">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Red-Eyed_Crocodile_Skink.jpg/330px-Red-Eyed_Crocodile_Skink.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pogona_vitticeps02.JPG/1280px-Pogona_vitticeps02.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Amblyrhynchus_cristatus_%283838137696%29.jpg/1280px-Amblyrhynchus_cristatus_%283838137696%29.jpg</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/221/2024/02/17/forest-dragon-3349072096.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jielbeaumadier_hydrosaure_weberi_1_mjp_paris_2013.jpeg/1280px-Jielbeaumadier_hydrosaure_weberi_1_mjp_paris_2013.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692607976%29.jpg/1280px-Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692607976%29.jpg</item>
+    </string-array>
+</resources>
